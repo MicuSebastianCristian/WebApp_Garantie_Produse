@@ -1,2 +1,2 @@
 # WebApp_Garantie_Produse
-Am creat un Manager al Garantiilor de Produse pe care il puteti accesa la urmatoarea adresa securizata https://sebastianmicu.pythonanywhere.com/ , codul este privat si se poate oferi accesul in el daca doreste cineva sa il acceseze.
+Am dezvoltat un Sistem de Gestionare a Garanțiilor de Produse, disponibil la adresa URL: https://sebastianmicu.pythonanywhere.com/. Codul sursă este confidențial, însă se poate oferi acces la cerere pentru persoanele autorizate interesate 
